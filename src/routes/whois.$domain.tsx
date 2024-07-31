@@ -28,9 +28,9 @@ const WhoisPageError = ({ error }: ErrorComponentProps) => {
           <Anchor
             target="_blank"
             rel="noreferrer noopener"
-            href="https://who.is/"
+            href="https://whois.ls/"
           >
-            who.is
+            whois.ls
           </Anchor>
         </AlertDescription>
       </Alert>
