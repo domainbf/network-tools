@@ -47,7 +47,7 @@ const WhoisPage = () => {
           id="tld"
           name="tld"
           onInput={onInput}
-          placeholder="Enter a domain, e.g. google.com"
+          placeholder="Enter a domain, e.g. wubaohu.com"
         />
         <Popover>
           <PopoverTrigger>
